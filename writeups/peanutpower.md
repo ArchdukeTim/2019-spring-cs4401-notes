@@ -5,7 +5,6 @@ categories: writeup
 author: Tim Winters
 layout: post
 ---
-# PeanutPower
 
 ```c
 void peanut(void)
