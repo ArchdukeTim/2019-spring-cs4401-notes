@@ -5,8 +5,6 @@ categories: writeup
 author: Tim Winters
 layout: post
 ---
-# format4
-###### Writeup by Tim Winters
 
 ```c
 #include <stdlib.h>
