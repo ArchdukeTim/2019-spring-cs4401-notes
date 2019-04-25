@@ -6,6 +6,8 @@ layout: post
 author: Ioannis Kyriazis
 ---
 
+In order to attempt this binary, you should be familiar with the stack. You should know what the stack looks like, and how it works. You should also understand the concept of memory addresses, how data is stored in variables, and how to access those variables.
+
 
 Code:
 ```c
